@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔭 Some of the projects I've worked on, or, in progress:
+🔭 Some of the projects I've worked on, or, are in progress:
 * [use-monaco](https://github.com/nksaraf/use-monaco): 
 	- Simple and powerful React hooks to work with monaco-editor
 	- Added plugin API to register custom workers, languages and features very easily
