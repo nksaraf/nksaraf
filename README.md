@@ -4,7 +4,7 @@ I am Nikhil. I am the founder and CTO at Qwerty (@qwertynotes). I am a devtools 
 
 * Web-based IDEs for React, backends, etc to make development accessible to non-technical people on my teams
 * Infrastructure-as-code tools to making backends easy to manage for front-end devs
-* powerful custom React hooks
+* Powerful custom React hooks
 * Researching using natural language to write code for us...
 
 Have built apps with: React, React Query, Relay, GraphQL, Recoil, Prisma, Hasura, Monaco Editor, NextJS, Framer motion, React router, ....
