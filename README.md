@@ -16,7 +16,7 @@
 * [magiql-browser](https://magiql-browser.vercel.app) 🌐 :
 	- Chrome like IDE with tabs and panels for exploring and developing multiple GraphQL APIs
 	- Web-based, built on React, Recoil, use-monaco (monaco-editor)
-	- URL: https://magiql-browser.vercel.app/
+	- Demo: https://magiql-browser.vercel.app/
 	- Repo: https://github.com/nksaraf/magiql-browser
 * [playground](https://github.com/nksaraf/playground) 🎲 : 
 	- Nodes-based GUI with plugin support to create computation graphs
