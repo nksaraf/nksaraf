@@ -3,7 +3,7 @@
 
 🔭 Some of the projects I've worked on, or, are in progress:
 * [use-monaco](https://github.com/nksaraf/use-monaco) 🗒 : 
-	- Simple and powerful React hooks to work with monaco-editor
+	- Simple and powerful React hooks to work with [`monaco-editor`](https://microsoft.github.io/monaco-editor/)
 	- Added plugin API to register custom workers, languages and features very easily
 	- No bundler required for making monaco-editor work, everything is lazy loaded and uses web-workers wherever possible 
 	- Repo: https://github.com/nksaraf/use-monaco
