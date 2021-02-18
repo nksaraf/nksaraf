@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Nikhil. I am the founder and CTO at Qwerty (@qwertynotes). I am a devtools maniac and continuously try to upgrade the developer experience for my teams. The range of tools I have messed around with in the last few years include: 
+I am Nikhil. I am the founder and CTO at Qwerty ([qwerty.college](https://qwerty.college)). I am a devtools maniac and continuously try to upgrade the developer experience for my teams. The range of tools I have messed around with in the last few years include: 
 
 * Web-based IDEs for React, backends, etc to make development accessible to non-technical people on my teams
 * Infrastructure-as-code tools to making backends easy to manage for front-end devs
