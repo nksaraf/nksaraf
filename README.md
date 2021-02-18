@@ -2,11 +2,13 @@
 
 I am Nikhil. I am the founder and CTO at Qwerty (@qwertynotes). I am a devtools maniac and continuously try to upgrade the developer experience for the team. The range of tools I have messed around with in the last few years ranges: 
 
-	* web-based IDEs for React, backends, etc.
-	* better CLI tooling
-	* powerful custom React hooks
+* Web-based IDEs for React, backends, etc.
+* Infrastructre as code to making backends easy to manage for front-end devs
+* powerful custom React hooks
 
-🔭 Some of the open source projects I've worked on, or, are in progress:
+Built apps with: React, React Query, Relay, GraphQL, Recoil, Prisma, Hasura, Monaco Editor, NextJS
+
+🔭.  Some of the open source projects I've worked on, or, are in progress:
 
 * [use-monaco](https://github.com/nksaraf/use-monaco) 🗒 : 
 	- Simple and powerful React hooks to work with [`monaco-editor`](https://microsoft.github.io/monaco-editor/)
