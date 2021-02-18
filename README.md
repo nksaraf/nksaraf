@@ -13,7 +13,7 @@
 	- Automatic collaboration session between different teammates working on the same drawing
 	- Built with frontend: React, Chakra UI, backend: Hasura, GraphQL, Postgres 
 	- Repo: https://github.com/nksaraf/excalidraw-studio
-* [magiql-browser] (https://magiql-browser.vercel.app) 🌐 :
+* [magiql-browser](https://magiql-browser.vercel.app) 🌐 :
 	- Chrome like IDE with tabs and panels for exploring and developing multiple GraphQL APIs
 	- Web-based, built on React, Recoil, use-monaco (monaco-editor)
 	- URL: https://magiql-browser.vercel.app/
